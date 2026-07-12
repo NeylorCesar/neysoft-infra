@@ -1,0 +1,50 @@
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/
+
+# Backup
+*.bak
+*.old
+*.orig
+
+# Environment
+.env
+.env.*
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+
+# Ansible
+*.retry
+
+# SSH
+*.pem
+*.key
+*.pub
+
+# Certificates
+*.crt
+*.csr
+*.pfx
+*.p12
+
+# Let's Encrypt
+letsencrypt/
+
+# Docker
+docker/volumes/
+
+# Misc
+.cache/

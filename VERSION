@@ -1,0 +1,13 @@
+Neysoft Infrastructure
+
+Version : 1.0.0
+Codename: Foundation
+Status  : Development
+
+Debian  : 13
+Docker  : 29
+Architecture:
+Host Reverse Proxy
+
+Created:
+2026-07-11

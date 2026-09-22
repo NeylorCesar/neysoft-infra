@@ -1,6 +1,6 @@
 # Neysoft Infrastructure
 
-> Secure • Reproducible • Automated 
+> Secure • Reproducible • Automated
 
 ## Overview
 

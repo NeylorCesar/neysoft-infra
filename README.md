@@ -6,7 +6,7 @@
 
 The **Neysoft Infrastructure** project defines the standards, architecture, automation, documentation and operational procedures used across all Neysoft servers.
 
-Its purpose is to provide a reproducible, secure and maintainable infrastructure that can be deployed consistently across development, staging and production environments.
+Its purpose is to provide a reproducible, secure and maintainable infrastructure that can be deployed consistently across development, staging and production environments. 
 
 This repository is the foundation for every server running Neysoft products.
 

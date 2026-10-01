@@ -1,4 +1,4 @@
-# Neysoft Infrastructure 
+# Neysoft Infrastructure
 
 > Secure • Reproducible • Automated
 
